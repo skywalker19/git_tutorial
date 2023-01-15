@@ -2,3 +2,4 @@ This is the first file
 add change into index 
 add 2nd change to index
 commit to record index status
+pull to get remote repo updates
